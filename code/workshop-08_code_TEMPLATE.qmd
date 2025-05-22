@@ -3,12 +3,10 @@ title: "Workshop 8 TEMPLATE"
 subtitle: "T 4PM"
 author: "chrissy g"
 date: "5/22/2025"
-format:
-  html:
-    toc: true # use this to display a table of contents
-execute:
-  message: false # use this to make sure messages don't show up
-  warning: false # use this to make sure warnings don't show up
+format: docx
+toc: true # use this to display a table of contents
+message: false # use this to make sure messages don't show up
+warning: false # use this to make sure warnings don't show up
 ---
 
 Data source: Valliere, Justin; Zhang, Jacqueline; Sharifi, M.; Rundel, Philip (2019). Data from: Can we condition native plants to increase drought tolerance and improve restoration success? [Dataset]. Dryad. [https://doi.org/10.5061/dryad.v0861f7](https://doi.org/10.5061/dryad.v0861f7)  
